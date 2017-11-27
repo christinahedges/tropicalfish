@@ -1,0 +1,13 @@
+*.dat
+*.fits
+*~
+*.mp4
+*checkpoint*
+data/
+*.pdf
+*.png
+*.jpg
+*.txt
+*.cav
+*.sav
+*.p
