@@ -1,5 +1,3 @@
-:tropical_fish:
-
 TropicalFish :tropical_fish:
 ============================
 
